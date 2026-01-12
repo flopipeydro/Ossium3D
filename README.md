@@ -32,8 +32,9 @@ Todo integrado en una sola app. Simple. Flexible. Y pensada para todos.
 3. Elegís medidas clave para diseñar tu prótesis.
 4. Se genera un modelo 3D personalizado.
 5. Exportás el archivo.
-
+   
 Para una explicación más detallada, ingresar en Documentos a LUP Ossium3D.
+
 ---
 
 ## ¿Cómo lo uso?

@@ -36,7 +36,6 @@
 
 La **interfaz gráfica de Ossium3D** se encuentra en la siguiente carpeta:
 
-🔗 **Interfaz Ossium3D**  
-https://drive.google.com/drive/folders/1c8-xMoa4Lmqs8AQWHzQCNtIgRtidaFQ6?usp=sharing
+🔗 **[Interfaz Ossium3D](https://drive.google.com/drive/folders/1c8-xMoa4Lmqs8AQWHzQCNtIgRtidaFQ6?usp=sharing)**
 
 Desde esta carpeta se ejecuta la aplicación principal.

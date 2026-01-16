@@ -22,7 +22,7 @@
 
 ## Uso del dataset
 
-- Clocar en la interfaz grafica los estudios que se encuentran en la carpeta "Dataset"
+- Colocar en la interfaz grafica los estudios que se encuentran en la carpeta "Dataset"
 ---
 ## ! Notas importantes
 

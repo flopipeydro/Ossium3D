@@ -40,3 +40,10 @@ La **carpeta que contiene la interfaz gráfica de Ossium3D** se encuentra en el 
 🔗 **[Interfaz Ossium3D](https://drive.google.com/drive/folders/1c8-xMoa4Lmqs8AQWHzQCNtIgRtidaFQ6?usp=sharing)**
 
 Cualquier duda se tiene un instructivo de uso llamado LUP.
+
+---
+## Evaluación clínica preliminar
+
+Posterior al uso de la interfaz, seleccionar el siguiente enlace para realizar una evaluación clínica preliminar.
+
+🔗 **[Acceder a la evaluación clínica](https://flopipeydro.github.io/EncuestaOssium3D/)**

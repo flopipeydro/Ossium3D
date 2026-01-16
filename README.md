@@ -39,8 +39,4 @@ Para una explicación más detallada, ingresar en Documentos a LUP Ossium3D.
 
 ## ¿Cómo lo uso?
 
-1. Cloná este repo:
-
-   ```bash
-   git clone https://github.com/flopipeydro/Ossium3D.git
-   cd Ossium3D
+1. Entrar a "Descarga_Interfaz.md"

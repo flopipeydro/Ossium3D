@@ -22,7 +22,7 @@
 
 ## Uso del dataset
 
-- Para utilizar el sistema, colocar los estudios a procesar dentro de la carpeta "Dataset"
+- Clocar en la interfaz grafica los estudios que se encuentran en la carpeta "Dataset"
 ---
 ## ! Notas importantes
 
@@ -34,8 +34,8 @@
 
 ## Ubicación de la interfaz
 
-La **interfaz gráfica de Ossium3D** se encuentra en la siguiente carpeta:
+La **carpeta que contiene la interfaz gráfica de Ossium3D** se encuentra en el siguiente link:
 
 🔗 **[Interfaz Ossium3D](https://drive.google.com/drive/folders/1c8-xMoa4Lmqs8AQWHzQCNtIgRtidaFQ6?usp=sharing)**
 
-Desde esta carpeta se ejecuta la aplicación principal.
+Cualquier duda se tiene un instructivo de uso llamado LUP.

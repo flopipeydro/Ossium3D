@@ -22,7 +22,8 @@
 
 ## Uso del dataset
 
-- Colocar en la interfaz grafica los estudios que se encuentran en la carpeta "Dataset"
+- Utilizar los estudios que se encuentran en la carpeta "Dataset" dentro de la carpeta completa del proyecto.
+  
 ---
 ## ! Notas importantes
 

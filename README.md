@@ -10,7 +10,7 @@ Todo integrado en una sola app. Simple. Flexible. Y pensada para todos.
 
 - Segmenta imágenes médicas (como tomografías).  
 - Toma medidas anatómicas del paciente.  
-- Modela una prótesis femoral adaptada a ese cuerpo.  
+- Modela una prótesis de cadera personalizada.  
 - Exporta el modelo en formato STL para impresión 3D.  
 
 ---
@@ -27,13 +27,13 @@ Todo integrado en una sola app. Simple. Flexible. Y pensada para todos.
 
 ## ¿Y cómo funciona?
 
-1. Subís una imagen médica (CT de cadera).
+1. Subir imagenes médicas (CT de cadera en DICOM).
 2. El sistema la segmenta y reconstruye el hueso.
-3. Elegís medidas clave para diseñar tu prótesis.
-4. Se genera un modelo 3D personalizado.
-5. Exportás el archivo.
+3. Medir parámetros clave para diseñar tu prótesis.
+4. Modificar el modelo 3D para que resulte personalizado.
+5. Exportar el archivo.
    
-Para una explicación más detallada, ingresar en Documentos a LUP Ossium3D.
+Para una explicación más detallada, ingresar en Documentos a LUP Ossium3D o mirar el VideoDemo.
 
 ---
 

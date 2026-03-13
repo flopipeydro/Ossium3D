@@ -22,14 +22,14 @@
 
 ## Uso del dataset
 
-- Utilizar los estudios que se encuentran en la carpeta "Dataset" dentro de la carpeta completa del proyecto.
+- Utilizar los estudios que se encuentran en las carpetas "datasetM" o "datasetF" dentro de la carpeta completa del proyecto o en el archivo Datasets.md de este repositorio.
   
 ---
 ## ! Notas importantes
 
 - No modificar los nombres de los archivos ni la estructura de carpetas.
 - El archivo `Ossium3D.bat` debe ejecutarse desde la carpeta principal del proyecto.
-- El primer inicio puede demorar algunos segundos mientras se cargan los componentes del sistema.
+- El primer inicio puede demorar algunos minutos mientras se cargan los componentes del sistema.
 
 ---
 
